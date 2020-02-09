@@ -3,7 +3,7 @@ Create a profile, create posts and discuss with others.
 
 
 MY GOAL:
-Make a simple application that lets users register, create a profile and create posts to start discuss with other users! There are also like/dislike functions for Posts.
+Make a simple application that lets users register, create a profile and create posts to start discussions with other users! There are also like/dislike functions for Posts (a must in 2020).
 
 
 ![Image of landingpage](https://imgur.com/djhGpea.jpg)
