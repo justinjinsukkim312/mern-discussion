@@ -10,7 +10,8 @@ Want to try it our yourself?
 4. cd client
 5. npm i
 6. cd ..
-7. npm run dev
+7. Create a default.json inside the config folder. Fill in your own MONGOURI connection information.
+7. Now finish by typing "npm run dev" in the terminal.
 
 
 Landing Page
