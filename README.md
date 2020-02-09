@@ -6,11 +6,11 @@ MY GOAL:
 Make a simple application that lets users register, create a profile and create posts to start discuss with other users! There are also like/dislike functions for Posts.
 
 
-![Image of landingpage](https://imgur.com/djhGpea)
+![Image of landingpage](https://imgur.com/djhGpea.jpg)
 
 
-![Image of signup](https://imgur.com/qVm1ogy)
+![Image of signup](https://imgur.com/qVm1ogy.jpg)
 
-![Image of create profile](https://imgur.com/3sPcthn)
+![Image of create profile](https://imgur.com/3sPcthn.jpg)
 
-![Image of posts](https://imgur.com/ATwhl8s)
+![Image of posts](https://imgur.com/ATwhl8s.jpg)
